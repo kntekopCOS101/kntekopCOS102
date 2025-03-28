@@ -1,0 +1,6 @@
+str = input("enter your state of origin")
+print("Your stste of origin is ", str)
+print("The first chararcter is ", str[0])
+print("The characters starting from third to fifth are: ",str[2:5])
+print("The string startibg from the third character is: ", str[2:])
+print("State of origin two times", str * 2)
